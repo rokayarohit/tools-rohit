@@ -5,7 +5,7 @@ from colorama import Fore
 print(Fore.RED + 'Born To Learn')
 a=input("What is your name? :")
 b=int(input("Hello",a,"How old are you?:"))
-      if b>16:
+      if b > 16:
       print("You are eligible to use this tool.")
       c=input("Are you ready to chat with me?(Y/N):")
       if c=="Y":
